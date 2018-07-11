@@ -22,3 +22,5 @@
 - 1) Paste the line beginning with "success" into the form provided. 
 
 ### Exercise 3
+
+- 0) Paste the result of executing the above command in the form.
