@@ -40,7 +40,7 @@
 
 - 1) What are the names of three of the modules that produce products of type vector? 
 
-- 2) Which version of CMSSW_?_?_? was used to produce the MiniAOD file? 
+- 2) Which version of CMSSW\_?\_?\_? was used to produce the MiniAOD file? 
 
 - 3) What is the number of events?
 
