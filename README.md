@@ -46,3 +46,52 @@
 
 - 4) What are these two numbers? 
 
+
+### Exercise 6
+
+- 0) What is the mean value of the muon pt() for the MC data? 
+
+- 1) What is the mean value of the muon pt() for the collision data? 
+
+
+## Second Set
+
+### Exercise 7
+
+- 0) What is the size of the MiniAOD slimMiniAOD_MC_MuEle.root? 
+
+- 1) What is the size of the MiniAOD slimMiniAOD_data_MuEle.root? 
+
+- 2) What is the mean eta of the muons for MC? 
+
+- 3) What is the mean eta of the muons for data? 
+
+- 4) What is the size of the output file compared to the original sample?
+
+- 5) Is the mean eta for muons for MC and data the same as in the original sample in Exercise 6? 
+
+### Exercise 8
+
+- 0) What is mean mass of the ZPeak for your MC MiniAOD? 
+
+- 1) How can you increase statistics in your ZPeak histogram? 
+
+### Exercise 9
+
+- 0) What is mean mass of the ZPeak for your data MiniAOD? 
+
+- 1) How can you increase statistics in your ZPeak histogram? 
+
+
+### Exercise 10 and 11
+
+- 0) What is pT of the highest pT muon that you see in the first event? 
+
+- 1) What is Run number? 
+
+- 2) What is the LS number? 
+
+- 3) How many tracks does the first event have? 
+
+- 4) How many primary vertices are in the first event of DoubleMuon_n100.root? 
+``
