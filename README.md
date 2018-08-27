@@ -94,4 +94,23 @@
 - 3) How many tracks does the first event have? 
 
 - 4) How many primary vertices are in the first event of DoubleMuon_n100.root? 
-``
+
+
+## Third Set
+
+### Exercise 12
+
+- 0) Copy the output.
+
+### Exercise 13
+
+- 0) Which CRAB version are you using?
+
+- 1) What is name of your directory name in store?
+
+### Exercise 14
+
+- 0) What is the file size of step1.root? 
+
+- 1) How many events were analyzed? 
+
