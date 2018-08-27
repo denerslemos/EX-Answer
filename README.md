@@ -112,5 +112,7 @@
 
 - 0) What is the file size of step1.root? 
 
-- 1) How many events were analyzed? 
+- 1) Where do you save the results?
+
+- 2) How many events were analyzed? 
 
