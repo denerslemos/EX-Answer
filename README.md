@@ -114,5 +114,60 @@
 
 - 1) Where do you save the results?
 
-- 2) How many events were analyzed? 
 
+### Exercise 15
+
+- 0) How many events were analyzed? 
+
+
+### Exercise 16
+
+Only to see.
+
+
+ ### Exercise 17
+ 
+  
+ - 0) What is the number of entries in the mumuMass plot ?
+ 
+ - 1) What is the mean mass in the mumuMass plot ?
+ 
+ - 2) What is the mean pT, eta and phi for muons?
+ 
+ - 3) What is the mean pT, eta and phi for electrons?
+ 
+  ### Exercise 18 
+  
+ - 0) What is the number of entries in the mumuMass plot ?
+ 
+ - 1) What is the mean mass in the mumuMass plot ?
+ 
+ - 2) What is the mean pT, eta and phi for muons?
+
+###  Exercise 19
+
+- 0) What is the value of the mean Z Mass that you get?
+
+- 1) What is the value of the chisquare/ndf that you get? 
+
+- 2) What is the value of the mean Z Mass that you get?
+
+- 3) What is the value of the chisquare/ndf that you get? 
+
+- 4) What mean value of Z Mass in the fitted sub-range do you get from gaussian? 
+
+- 5) What is the mean for the gaussian fit in RooFit?
+
+- 6) What is the sigma for the gaussian fit in RooFit? 
+
+- 7) What is the mean for Breit-Wigner fit using the macro?
+
+- 8) What is the sigma for Breit-Wigner fit using the macro? 
+
+- 9) What is the mean for Breit-Wigner fit using RooFit tool ?
+
+- 10) What is the sigma for Breit-Wigner fit using RooFit tool ? 
+
+- 11) What is the mean for the convoluted fit using - RooFit tool?
+
+- 12) What is the sigma for the convoluted fit using - RooFit tool? 
